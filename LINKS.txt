@@ -44,6 +44,8 @@ https://www.grammarly.com/
 
 https://www.duolingo.com/
 
+https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en-US&utm_source=ext_sidebar
+
 
 // FOSS Screen reader
 
