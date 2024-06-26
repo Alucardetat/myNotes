@@ -1,3 +1,5 @@
+// for searching and learning
+
 https://learn.microsoft.com/en-us/
 
 https://reddit.com/r/windows/
@@ -15,3 +17,22 @@ https://www.elevenforum.com/
 https://developers.google.com/search/docs/fundamentals/how-search-works
 
 https://support.google.com/websearch/answer/134479?hl=en
+
+
+
+// for training your brain
+
+
+https://leetcode.com/
+
+https://www.hackerrank.com/
+
+https://www.codewars.com/
+
+https://javascript.info/
+
+https://exercism.org/
+
+https://jsfiddle.net/
+
+https://codepen.io/
