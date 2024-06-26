@@ -38,4 +38,13 @@ https://jsfiddle.net/
 https://codepen.io/
 
 
+// English and grammar
+
 https://www.grammarly.com/
+
+https://www.duolingo.com/
+
+
+// FOSS Screen reader
+
+https://www.nvaccess.org/download/
